@@ -1,0 +1,4 @@
+{
+  "buildCommand": "node prepare-dist.cjs",
+  "outputDirectory": "dist"
+}
